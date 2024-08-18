@@ -1,16 +1,16 @@
 Here are the basic controls for the FPS game "Zombie Killer":
 
-### **Movement:**
-- **W**: Move forward
-- **S**: Move backward
-- **A**: Move left (strafe)
-- **D**: Move right (strafe)
+Movement:
+- W: Move forward
+- S: Move backward
+- A: Move left (strafe)
+- D: Move right (strafe)
 
 
-### **Combat:**
-- **Left Mouse Button**: Shoot
-- **Right Mouse Button**: Aim down sights
-- **R**: Reload weapon
+Combat:
+- Left Mouse Button Shoot
+- Right Mouse Button Aim down sights
+- R Reload weapon
 
 Interaction:
 - E: Interact with objects (open doors, pick up items, etc.)
