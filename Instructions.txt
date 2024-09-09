@@ -12,8 +12,4 @@ Combat:
 - Right Mouse Button Aim down sights
 - R Reload weapon
 
-Interaction:
-- E: Interact with objects (open doors, pick up items, etc.)
-- Tab: View objectives/stats
-
 These controls will help you navigate and survive in the game.
